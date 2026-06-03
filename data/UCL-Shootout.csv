@@ -1,0 +1,407 @@
+Match_ID,Shooter_Name,Penalty_Number,Goal,Elimination,is_left,Position_ID
+4814382,Gonçalo Ramos,1,1,0,0,4
+4814382,Viktor Gyökeres,2,1,0,0,4
+4814382,Désiré Doué,3,1,0,0,4
+4814382,Eberechi Eze,4,0,0,0,3
+4814382,Nuno Mendes,5,0,0,1,2
+4814382,Declan Rice,6,1,0,0,3
+4814382,Achraf Hakimi,7,1,0,0,2
+4814382,Gabriel Martinelli,8,1,0,0,4
+4814382,Lucas Beraldo,9,1,0,1,2
+4814382,Gabriel,10,0,1,1,2
+4547637,Kylian Mbappé,1,1,0,0,4
+4547637,Alexander Sørloth,2,1,0,1,4
+4547637,Jude Bellingham,3,1,0,0,3
+4547637,Julián Álvarez,4,0,0,0,4
+4547637,Federico Valverde,5,1,0,0,3
+4547637,Ángel Correa,6,1,0,0,4
+4547637,Lucas Vázquez,7,0,0,0,2
+4547637,Marcos Llorente,8,0,0,0,2
+4547637,Antonio Rüdiger,9,1,1,0,2
+4547604,Vitinha,1,1,0,0,3
+4547604,Mohamed Salah,2,1,0,1,4
+4547604,Gonçalo Ramos,3,1,0,0,4
+4547604,Darwin Núñez,4,0,0,0,4
+4547604,Ousmane Dembélé,5,1,0,0,4
+4547604,Curtis Jones,6,0,0,0,3
+4547604,Désiré Doué,7,1,1,0,4
+4312027,Julián Álvarez,1,1,0,0,4
+4312027,Luka Modrić,2,0,0,0,3
+4312027,Bernardo Silva,3,0,0,1,3
+4312027,Jude Bellingham,4,1,0,0,3
+4312027,Mateo Kovacic,5,0,0,0,3
+4312027,Lucas Vázquez,6,1,0,0,2
+4312027,Phil Foden,7,1,0,1,3
+4312027,Nacho Fernández,8,1,0,0,2
+4312027,Ederson,9,1,0,1,1
+4312027,Antonio Rüdiger,10,1,1,0,2
+4243699,Hakan Çalhanoğlu,1,1,0,0,3
+4243699,Memphis Depay,2,1,0,0,4
+4243699,Alexis Sánchez,3,0,0,0,4
+4243699,Saúl Ñíguez,4,0,0,1,3
+4243699,Davy Klaassen,5,0,0,0,3
+4243699,Rodrigo Riquelme,6,1,0,0,4
+4243699,Francesco Acerbi,7,1,0,1,2
+4243699,Ángel Correa,8,1,0,0,4
+4243699,Lautaro Martínez,9,0,1,0,4
+4243696,Martin Ødegaard,1,1,0,1,3
+4243696,Pepê,2,1,0,0,4
+4243696,Kai Havertz,3,1,0,1,4
+4243696,Wendell,4,0,0,1,2
+4243696,Bukayo Saka,5,1,0,1,4
+4243696,Marko Grujić,6,1,0,0,3
+4243696,Declan Rice,7,1,0,0,3
+4243696,Galeno,8,0,1,0,4
+2690027,Lucas Vázquez,1,1,0,0,2
+2690027,Antoine Griezmann,2,1,0,1,4
+2690027,Marcelo,3,1,0,1,2
+2690027,Gabi,4,1,0,0,3
+2690027,Gareth Bale,5,1,0,1,4
+2690027,Saúl Ñíguez,6,1,0,1,3
+2690027,Sergio Ramos,7,1,0,0,2
+2690027,Juanfran Torres,8,0,0,0,2
+2690027,Cristiano Ronaldo,9,1,1,0,4
+2645819,Marco van Ginkel,1,1,0,0,3
+2645819,Antoine Griezmann,2,1,0,1,4
+2645819,Andrés Guardado,3,1,0,1,3
+2645819,Gabi,4,1,0,0,3
+2645819,Davy Pröpper,5,1,0,0,3
+2645819,Koke,6,1,0,0,3
+2645819,Jeffrey Bruma,7,1,0,0,2
+2645819,Saúl Ñíguez,8,1,0,1,3
+2645819,Héctor Moreno,9,1,0,1,2
+2645819,Fernando Torres,10,1,0,0,4
+2645819,Maxime Lestienne,11,1,0,1,4
+2645819,José María Giménez,12,1,0,0,2
+2645819,Santiago Arias,13,1,0,0,2
+2645819,Filipe Luís,14,1,0,1,2
+2645819,Luciano Narsingh,15,0,0,0,4
+2645819,Juanfran Torres,16,1,1,0,2
+2517522,Raúl García,1,0,0,0,3
+2517522,Hakan Çalhanoğlu,2,0,0,0,3
+2517522,Antoine Griezmann,3,1,0,1,4
+2517522,Simon Rolfes,4,1,0,1,3
+2517522,Mario Suárez,5,1,0,0,3
+2517522,Ömer Toprak,6,0,0,0,2
+2517522,Koke,7,0,0,0,3
+2517522,Gonzalo Castro,8,1,0,0,3
+2517522,Fernando Torres,9,1,0,0,4
+2517522,Stefan Kießling,10,0,1,0,4
+2208062,Philipp Lahm,1,1,0,0,2
+2208062,Juan Mata,2,0,0,1,3
+2208062,Mario Gómez,3,1,0,0,4
+2208062,David Luiz,4,1,0,0,2
+2208062,Manuel Neuer,5,1,0,0,1
+2208062,Frank Lampard,6,1,0,0,3
+2208062,Ivica Olic,7,0,0,1,4
+2208062,Ashley Cole,8,1,0,1,2
+2208062,Bastian Schweinsteiger,9,0,0,0,3
+2208062,Didier Drogba,10,1,1,0,4
+2194740,David Alaba,1,1,0,1,2
+2194740,Cristiano Ronaldo,2,0,0,0,4
+2194740,Mario Gómez,3,1,0,0,4
+2194740,Kaká,4,0,0,0,3
+2194740,Toni Kroos,5,0,0,0,3
+2194740,Xabi Alonso,6,1,0,0,3
+2194740,Philipp Lahm,7,0,0,0,2
+2194740,Sergio Ramos,8,0,0,0,2
+2194740,Bastian Schweinsteiger,9,1,1,0,3
+1174217,Kim Källström,1,1,0,1,3
+1174217,Aílton,2,1,0,0,4
+1174217,Lisandro López,3,1,0,0,4
+1174217,Nuno Morais,4,1,0,0,3
+1174217,Bafétimbi Gomis,5,1,0,0,4
+1174217,Nektarios Alexandrou,6,1,0,1,4
+1174217,Alexandre Lacazette,7,0,0,0,4
+1174217,Ivan Trickovski,8,1,0,0,4
+1174217,Michel Bastos,9,0,1,0,3
+933248,Eduardo,1,0,0,1,4
+933248,David Pizarro,2,1,0,0,3
+933248,Robin van Persie,3,1,0,1,4
+933248,Mirko Vučinić,4,0,0,0,4
+933248,Theo Walcott,5,1,0,0,4
+933248,Júlio Baptista,6,1,0,0,3
+933248,Samir Nasri,7,1,0,0,3
+933248,Vincenzo Montella,8,1,0,0,4
+933248,Denílson,9,1,0,0,3
+933248,Francesco Totti,10,1,0,0,4
+933248,Kolo Touré,11,1,0,0,2
+933248,Alberto Aquilani,12,1,0,0,3
+933248,Bacary Sagna,13,1,0,0,2
+933248,John Arne Riise,14,1,0,0,2
+933248,Abou Diaby,15,1,0,0,3
+933248,Max Tonetto,16,0,1,1,2
+909764,Carlos Tévez,1,1,0,0,4
+909764,Michael Ballack,2,1,0,0,3
+909764,Michael Carrick,3,1,0,0,3
+909764,Juliano Belletti,4,1,0,0,2
+909764,Cristiano Ronaldo,5,0,0,0,4
+909764,Frank Lampard,6,1,0,0,3
+909764,Owen Hargreaves,7,1,0,0,3
+909764,Ashley Cole,8,1,0,1,2
+909764,Nani,9,1,0,0,4
+909764,John Terry,10,0,0,0,2
+909764,Anderson,11,1,0,1,3
+909764,Salomon Kalou,12,1,0,0,4
+909764,Ryan Giggs,13,1,0,1,3
+909764,Nicolas Anelka,14,0,1,0,4
+88396,Rafinha,1,1,0,0,2
+88396,Lucho González,2,1,0,0,3
+88396,Ivan Rakitic,3,1,0,0,3
+88396,Bruno Alves,4,0,0,0,2
+88396,Halil Altıntop,5,1,0,0,3
+88396,Lisandro López,6,0,0,0,4
+88396,Jermaine Jones,7,1,1,0,3
+88403,Frédéric Kanouté,1,1,0,0,4
+88403,Wederson,2,1,0,1,2
+88403,Julien Escudé,3,0,0,1,2
+88403,Edú Dracena,4,0,0,0,2
+88403,Ivica Dragutinovic,5,1,0,1,2
+88403,Mehmet Aurélio,6,1,0,0,3
+88403,Enzo Maresca,7,0,0,0,3
+88403,Mateja Kežman,8,1,0,0,4
+88403,Dani Alves,9,0,1,0,2
+68029,Boudewijn Zenden,1,1,0,1,4
+68029,Arjen Robben,2,0,0,1,4
+68029,Xabi Alonso,3,1,0,0,3
+68029,Frank Lampard,4,1,0,0,3
+68029,Steven Gerrard,5,1,0,0,3
+68029,Njitap Geremi,6,0,0,0,3
+68029,Dirk Kuyt,7,1,1,0,4
+31195,Serginho,1,0,0,1,2
+31195,Dietmar Hamann,2,1,0,0,3
+31195,Andrea Pirlo,3,0,0,0,3
+31195,Djibril Cissé,4,1,0,0,4
+31195,Jon Dahl Tomasson,5,1,0,0,4
+31195,John Arne Riise,6,0,0,0,2
+31195,Kaká,7,1,0,0,3
+31195,Vladimir Smicer,8,1,0,0,3
+31195,Andriy Shevchenko,9,0,1,0,4
+31092,Mark van Bommel,1,1,0,0,3
+31092,Juninho Pernambucano,2,1,0,0,3
+31092,André Ooijer,3,1,0,0,2
+31092,Michael Essien,4,0,0,0,3
+31092,Wilfred Bouma,5,1,0,1,2
+31092,Hatem Ben Arfa,6,1,0,1,3
+31092,DaMarcus Beasley,7,0,0,1,2
+31092,Éric Abidal,8,0,0,1,2
+31092,Robert,9,1,1,0,4
+985129,David Trezeguet,1,0,0,0,4
+985129,Serginho,2,1,0,1,2
+985129,Alessandro Birindelli,3,1,0,0,2
+985129,Clarence Seedorf,4,0,0,0,3
+985129,Marcelo Zalayeta,5,0,0,0,4
+985129,Kakhaber Kaladze,6,0,0,1,2
+985129,Paolo Montero,7,0,0,1,2
+985129,Alessandro Nesta,8,1,0,0,2
+985129,Alessandro Del Piero,9,1,0,0,4
+985129,Andriy Shevchenko,10,1,1,0,4
+990248,Paulo Sérgio,1,0,0,0,4
+990248,Gaizka Mendieta,2,1,0,0,3
+990248,Hasan Salihamidzic,3,1,0,0,3
+990248,John Carew,4,1,0,0,4
+990248,Alexander Zickler,5,1,0,0,4
+990248,Zlatko Zahovic,6,0,0,1,3
+990248,Patrik Andersson,7,0,0,0,2
+990248,Amedeo Carboni,8,0,0,1,2
+990248,Stefan Effenberg,9,1,0,0,3
+990248,Rubén Baraja,10,1,0,0,3
+990248,Bixente Lizarazu,11,1,0,0,2
+990248,Kily González,12,1,0,1,3
+990248,Thomas Linke,13,1,0,0,2
+990248,Mauricio Pellegrino,14,0,1,1,2
+1067646,Edgar Davids,1,0,0,1,3
+1067646,Ciro Ferrara,2,1,0,0,2
+1067646,Jari Litmanen,3,1,0,0,3
+1067646,Gianluca Pessotto,4,1,0,0,2
+1067646,Arnold Scholten,5,1,0,0,3
+1067646,Michele Padovano,6,1,0,1,4
+1067646,Sonny Silooy,7,0,0,0,2
+1067646,Vladimir Jugovic,8,1,1,0,3
+1081866,Robert Prosinecki,1,1,0,0,3
+1081866,Manuel Amoros,2,0,0,0,2
+1081866,Dragisa Binic,3,1,0,0,4
+1081866,Bernard Casoni,4,1,0,0,2
+1081866,Miodrag Belodedici,5,1,0,0,2
+1081866,Jean-Pierre Papin,6,1,0,0,4
+1081866,Sinisa Mihajlovic,7,1,0,0,2
+1081866,Carlos Mozer,8,1,0,0,2
+1081866,Darko Pancev,9,1,1,0,4
+1081851,Valeriy Karpin,1,1,0,0,3
+1081851,Ciro Ferrara,2,1,0,0,2
+1081851,Igor Shalimov,3,1,0,0,3
+1081851,Massimo Mauro,4,1,0,0,3
+1081851,Valeriy Shmarov,5,1,0,0,3
+1081851,Marco Baroni,6,0,0,0,2
+1081851,Vasiliy Kulkov,7,1,0,0,2
+1081851,Diego Maradona,8,1,0,0,3
+1081851,Aleksandr Mostovoy,9,1,1,0,3
+1081841,Torbjörn Persson,1,0,0,0,4
+1081841,Frank Lieberam,2,1,0,0,2
+1081841,Bent Skammelsrud,3,1,0,0,3
+1081841,Detlef Schößler,4,1,0,0,2
+1081841,Per Agren,5,1,0,0,4
+1081841,Andreas Wagenhaus,6,1,0,0,2
+1081841,Niclas Nylén,7,1,0,0,3
+1081841,Mario Kern,8,1,0,0,2
+1081841,Leif Engqvist,9,1,0,0,4
+1081841,Torsten Gütschow,10,1,1,0,4
+1020027,Dragan Stojkovic,1,1,0,0,3
+1020027,Franco Baresi,2,1,0,0,2
+1020027,Robert Prosinecki,3,1,0,0,3
+1020027,Marco van Basten,4,1,0,0,4
+1020027,Dejan Savicevic,5,0,0,1,3
+1020027,Alberico Evani,6,1,0,1,3
+1020027,Mitar Mrkela,7,0,0,1,3
+1020027,Frank Rijkaard,8,1,1,0,3
+1019970,Heinz Hermann,1,1,0,0,3
+1019970,Georgios Mitsibonas,2,0,0,0,2
+1019970,Robert Lei-Ravello,3,1,0,0,3
+1019970,Paul Bannon,4,0,0,0,4
+1019970,Michel Decastel,5,1,0,0,3
+1019970,Sakis Tsiolis,6,0,1,0,4
+1020182,Ronald Koeman,1,1,0,0,2
+1020182,Elzo,2,1,0,0,3
+1020182,Wim Kieft,3,1,0,0,4
+1020182,Dito,4,1,0,0,2
+1020182,Ivan Nielsen,5,1,0,0,2
+1020182,Redouane Hajry,6,1,0,0,3
+1020182,Gerald Vanenburg,7,1,0,0,4
+1020182,Pacheco,8,1,0,0,4
+1020182,Sören Lerby,9,1,0,0,3
+1020182,Carlos Mozer,10,1,0,0,2
+1020182,Anton Janssen,11,1,0,1,3
+1020182,Veloso,12,0,1,0,2
+1020336,Hugo Sánchez,1,0,0,0,4
+1020336,Sergio Brio,2,0,0,0,2
+1020336,Emilio Butragueño,3,1,0,0,4
+1020336,Beniamino Vignola,4,1,0,1,3
+1020336,Jorge Valdano,5,1,0,0,4
+1020336,Lionello Manfredonia,6,0,0,0,3
+1020336,Juanito,7,1,0,0,4
+1020336,Luciano Favero,8,0,1,0,2
+1020440,Mihail Majearu,1,0,0,0,3
+1020440,José Ramón Alexanko,2,0,0,0,2
+1020440,Ladislau Bölöni,3,0,0,1,3
+1020440,Ángel Pedraza,4,0,0,0,2
+1020440,Marius Lăcătuş,5,1,0,0,4
+1020440,Pichi Alonso,6,0,0,0,4
+1020440,Gavril Balint,7,1,0,0,4
+1020440,Marcos Alonso,8,0,1,0,3
+1020438,Stefan Pettersson,1,1,0,0,4
+1020438,José Ramón Alexanko,2,1,0,0,2
+1020438,Thomas Wernersson,3,1,0,0,1
+1020438,Ángel Pedraza,4,1,0,0,2
+1020438,Peter Larsson,5,1,0,0,2
+1020438,Lobo Carrasco,6,0,0,0,4
+1020438,Stig Fredriksson,7,1,0,0,2
+1020438,Ramón Calderé,8,1,0,0,3
+1020438,Roland Nilsson,9,0,0,0,2
+1020438,Javier Urruti,10,1,0,0,1
+1020438,Per Edmund Mordt,11,0,0,0,2
+1020438,Víctor Muñoz,12,1,1,0,3
+1020520,Patrick Battiston,1,1,0,0,2
+1020520,Gennadiy Lytovchenko,2,0,0,0,3
+1020520,Alain Giresse,3,1,0,0,3
+1020520,Oleksandr Lysenko,4,1,0,0,2
+1020520,Bernard Lacombe,5,1,0,0,4
+1020520,Viktor Kuznetsov,6,1,0,0,3
+1020520,Léonard Specht,7,1,0,0,2
+1020520,Sergiy Puchkov,8,1,0,0,2
+1020520,Fernando Chalana,9,1,1,0,3
+1020467,Ian Porteous,1,1,0,0,4
+1020467,Rainer Ernst,2,1,0,0,3
+1020467,Tommy McQueen,3,1,0,0,2
+1020467,Frank Rohde,4,1,0,0,2
+1020467,John Hewitt,5,1,0,0,4
+1020467,Bernd Schulz,6,0,0,0,4
+1020467,Billy Stark,7,1,0,0,4
+1020467,Rainer Troppa,8,1,0,0,2
+1020467,Willie Miller,9,0,0,0,2
+1020467,Frank Terletzki,10,1,0,0,3
+1020467,Eric Black,11,0,0,0,4
+1020467,Norbert Trieloff,12,1,1,0,3
+1020761,Steve Nicol,1,0,0,0,2
+1020761,Agostino Di Bartolomei,2,1,0,0,3
+1020761,Phil Neal,3,1,0,0,2
+1020761,Bruno Conti,4,0,0,1,4
+1020761,Graeme Souness,5,1,0,0,3
+1020761,Ubaldo Righetti,6,1,0,0,2
+1020761,Ian Rush,7,1,0,0,4
+1020761,Francesco Graziani,8,0,0,0,4
+1020761,Alan Kennedy,9,1,1,1,2
+1020636,Bosko Djordjevic,1,0,0,0,4
+1020636,Hans-Jürgen Dörner,2,0,0,0,2
+1020636,Nikica Klincarski,3,1,0,0,4
+1020636,Gerd Weber,4,1,0,0,4
+1020636,Slobodan Pavković,5,1,0,0,4
+1020636,Hartmut Schade,6,0,0,0,4
+1020636,Aleksandar Trifunovic,7,0,0,0,4
+1020636,Peter Kotte,8,1,0,0,4
+1020636,Xhevat Prekazi,9,1,0,0,4
+1020636,Dieter Riedel,10,1,0,0,4
+1020636,Nenad Stojkovic,11,1,0,0,2
+1020636,Rainer Sachse,12,1,0,0,4
+1020636,Ilija Zavisic,13,0,0,0,4
+1020636,Udo Schmuck,14,1,1,0,4
+1090481,Claudio Gentile,1,0,0,0,2
+1090481,Ruud Geels,2,0,0,0,4
+1090481,Romeo Benetti,3,1,0,0,3
+1090481,Pim van Dord,4,0,0,0,4
+1090481,Antonio Cabrini,5,1,0,0,2
+1090481,Tscheu La Ling,6,0,0,0,4
+1090481,Franco Causio,7,1,1,0,4
+1090459,Minervino Pietra,1,1,0,0,2
+1090459,Vladimir Yurin,2,0,0,0,3
+1090459,José Luis,3,1,0,0,4
+1090459,Vadim Nikonov,4,0,0,0,3
+1090459,Fernando Chalana,5,1,0,0,3
+1090459,Aleksey Belenkov,6,1,0,0,4
+1090459,Manuel Bento,7,1,1,0,1
+1150378,Joachim Streich,1,0,0,0,4
+1150378,Bo Larsson,2,0,0,0,4
+1150378,Martin Hoffmann,3,0,0,0,4
+1150378,Staffan Tapper,4,0,0,0,3
+1150378,Wolfgang Steinbach,5,1,0,1,3
+1150378,Anders Ljungberg,6,1,0,1,4
+1150378,Klaus Decker,7,0,0,0,2
+1150378,Roy Andersson,8,1,0,0,2
+1150378,Manfred Zapf,9,0,1,0,4
+1165016,András Tóth,1,1,0,0,4
+1165016,Jozef Adamec,2,1,0,0,4
+1165016,József Horváth,3,1,0,0,4
+1165016,Anton Hrusecky,4,1,0,0,4
+1165016,Ferenc Bene,5,1,0,0,4
+1165016,Marián Ševčík,6,1,0,0,4
+1165016,Sándor Zámbó,7,1,0,0,4
+1165016,Dusan Keketi,8,0,0,0,1
+1164970,Hans-Josef Kapellmann,1,1,0,0,3
+1164970,Conny Torstensson,2,1,0,0,3
+1164970,Bernd Gersdorff,3,0,0,0,3
+1164970,Reine Almqvist,4,1,0,0,4
+1164970,Gerd Müller,5,1,0,0,4
+1164970,Benno Magnusson,6,1,0,0,4
+1164970,Uli Hoeneß,7,1,0,0,4
+1164970,Kent Karlsson,8,0,0,0,2
+1164970,Franz Beckenbauer,9,1,0,0,2
+1164970,Leif Franzen,10,0,1,0,4
+1068400,Dixie Deans,1,0,0,0,4
+1068400,Sandro Mazzola,2,1,0,0,4
+1068400,Jim Craig,3,1,0,0,2
+1068400,Giacinto Facchetti,4,1,0,0,2
+1068400,Jimmy Johnstone,5,1,0,0,4
+1068400,Mario Frustalupi,6,1,0,0,3
+1068400,Pat McCluskey,7,1,0,0,4
+1068400,Sergio Pellizzaro,8,1,0,0,4
+1068400,Bobby Murdoch,9,1,0,0,3
+1068400,Jair,10,1,1,0,4
+1068323,Joe Royle,1,0,0,0,4
+1068323,Klaus-Dieter Sieloff,2,1,0,0,2
+1068323,Alan Ball,3,1,0,0,3
+1068323,Herbert Laumen,4,0,0,0,4
+1068323,Johnny Morrissey,5,1,0,0,4
+1068323,Jupp Heynckes,6,1,0,0,4
+1068323,Howard Kendall,7,1,0,0,3
+1068323,Horst Köppel,8,1,0,0,4
+1068323,Sandy Brown,9,1,0,0,2
+1068323,Ludwig Müller,10,0,1,0,2
